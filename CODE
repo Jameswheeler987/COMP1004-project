@@ -18,7 +18,12 @@ code
                     <option value="London">London</option>
                     <option value="New York">New York</option>
                     <option value="Tokyo">Tokyo</option>
-                    <!-- Add more destination options here -->
+                    <option value="Cornwall">Cornwall</option>
+                    <option value="Italy">Italy</option>
+                    <option value="France">France</option>
+                    <option value="USA">USA</option>
+                    <option value="Germany">Germany</option>
+                    <option value="Spain">Spain</option>
                 </select>
             </div>
             <div class="form-group">
